@@ -46,5 +46,6 @@ public class ArraylistMaxMin {
         
         System.out.println("Minimum: " + result.get(0));
         System.out.println("Maximum: " + result.get(1));
+        sc.close();
     }
 }
