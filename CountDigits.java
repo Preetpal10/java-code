@@ -8,9 +8,9 @@ public class CountDigits {
         int num = sc.nextInt();
 
         int count = 0;
-        int temp = Math.abs(num); // Handles negative numbers
+        int temp = Math.abs(num); 
 
-        // Special case for 0
+    
         if (temp == 0) {
             count = 1;
         } else {
