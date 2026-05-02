@@ -1,0 +1,12 @@
+1 — Copy the Publishable key
+Click the copy icon 📋 next to
+
+sb_publishable_nPPiQOsbybDdYFXvBryCMw_IjMskAaI
+
+Project URL
+Click General: nnlnfiyhtbqxilfmwgii
+
+anon keys: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5ubG5maXlodGJxeGlsZm13Z2lpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc3MTQwMDcsImV4cCI6MjA5MzI5MDAwN30.0gSwGD_Mwb2KxFizlwPyQ8EDYvak07_eJ_ZRzRhGKbM
+
+
+project khrtkar repo password: zuTvQem9zHg3CDWV
